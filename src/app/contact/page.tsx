@@ -4,7 +4,7 @@ export default function Contact() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">Contact Me</h1>
-          <p className="text-xl text-gray-600">Let's connect and discuss opportunities</p>
+          <p className="text-xl text-gray-600">Let&apos;s connect and discuss opportunities</p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
@@ -12,7 +12,7 @@ export default function Contact() {
           <div>
             <h2 className="text-2xl font-semibold text-gray-900 mb-6">Get In Touch</h2>
             <p className="text-gray-600 mb-8">
-              I'm always interested in hearing about new opportunities, collaborations, or just having a chat about
+              I&apos;m always interested in hearing about new opportunities, collaborations, or just having a chat about
               technology. Feel free to reach out!
             </p>
 
@@ -114,7 +114,7 @@ export default function Contact() {
                   id="subject"
                   name="subject"
                   className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                  placeholder="What's this about?"
+                  placeholder="What&apos;s this about?"
                 />
               </div>
 
