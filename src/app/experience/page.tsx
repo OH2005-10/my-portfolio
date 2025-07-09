@@ -16,7 +16,7 @@ export default function Experience() {
           <h2 className="text-2xl font-semibold text-gray-900 mb-1">
             Institute of Information and Communication Technology
           </h2>
-          <p className="text-blue-600">Bachelor's Degree in ICT</p>
+          <p className="text-blue-600">Bachelor&apos;s Degree in ICT</p>
           <p className="text-gray-500 text-sm">2022 - 2026</p>
         </div>
 
