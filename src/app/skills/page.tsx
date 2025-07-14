@@ -78,7 +78,7 @@ export default function Skills() {
       <div className="mt-12 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-8">
         <h2 className="text-2xl font-semibold text-gray-900 mb-4 text-center">Always Learning</h2>
         <p className="text-gray-600 text-center max-w-2xl mx-auto">
-          Technology evolves rapidly, and I'm committed to continuous learning. I regularly explore new frameworks,
+          Technology evolves rapidly, and I&apos;m committed to continuous learning. I regularly explore new frameworks,
           attend conferences, and work on personal projects to stay current with industry trends and best practices.
         </p>
         <div className="flex flex-wrap justify-center gap-3 mt-6">
